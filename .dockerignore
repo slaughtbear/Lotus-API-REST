@@ -5,3 +5,5 @@ __pycache__
 .git
 Dockerfile
 .dockerignore
+docker-compose.override.yml
+*.log
